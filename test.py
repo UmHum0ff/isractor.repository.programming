@@ -1,1 +1,1 @@
-print('hi\\o')
+print("Hello Victor")
