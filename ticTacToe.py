@@ -12,9 +12,6 @@ endOfGame = False
 o_as = Game()
 o_as()
 
-
-
-
 a_knight = Knight()
 
 
